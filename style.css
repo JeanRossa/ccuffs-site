@@ -1,0 +1,61 @@
+body{
+    background-color: #363b40;
+}
+.bgcol1{
+    background-color: white;
+}
+.bgcol2{
+    background-color: blue;
+}
+.bgcol3{
+    background-color: red;
+}
+h1{
+    color:#bfbfbf;    
+}
+h2{
+    color:#bfbfbf;    
+}
+p{
+    text-align: justify;
+    color:#bfbfbf;    
+}
+.background{
+    background-color:#1f2429;
+}
+
+.teste{
+    float: none;
+    margin: 0 auto;
+}
+.img-align-xs {
+    margin: auto;
+    display: block;
+}
+.txt-align-xs {
+    text-align: center;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 576px) {
+    .img-align-sm {
+        float:right
+    }
+    .txt-align-sm{
+        text-align: left;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .img-align-md {
+        float:right
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .img-align-lg {
+        float:right
+    }
+}
