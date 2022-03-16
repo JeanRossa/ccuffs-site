@@ -14,7 +14,21 @@ h1{
     color:#bfbfbf;    
 }
 h2{
-    color:#bfbfbf;    
+    color:black;    
+}
+.btn-contatos{
+    background-color: #5e656b; 
+    border: #4d5257; 
+    width: 400px; 
+    text-align: left;
+}
+.btn-contatos:hover{
+    background-color: #3e4449;  
+}
+.contatosTxt{
+    text-align: left;
+    color: black;
+    font-size: 20px;
 }
 p{
     text-align: justify;
