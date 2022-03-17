@@ -16,6 +16,18 @@ h1{
 h2{
     color:#bfbfbf;    
 }
+h4{
+    color:#bfbfbf;    
+}
+.yt-button:hover{
+    filter: invert(12%) sepia(63%) saturate(7483%) hue-rotate(356deg) brightness(91%) contrast(89%);
+}
+.insta-button:hover{
+    filter: invert(62%) sepia(0%) saturate(6927%) hue-rotate(360deg) brightness(116%) contrast(74%);
+}
+.title_projetos{
+    color: #f5f3f3;
+}
 .btn-contatos{
     background-color: #5e656b; 
     border: #4d5257; 
@@ -49,6 +61,9 @@ p{
 .txt-align-xs {
     text-align: center;
 }
+.fontsize-xs {
+    font-size: 30px;
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 576px) {
@@ -60,10 +75,19 @@ p{
     }
 }
 
+@media (min-width: 768px) {
+    .imgproject-align-md {
+        float:right
+    }
+    .txtproject-align-md{
+        text-align: left;
+    }
+}
+
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-    .img-align-md {
-        float:right
+    .fontsize-md{
+        font-size: 45px;
     }
 }
 
