@@ -13,18 +13,23 @@ body{
     background-color: red;
 }
 h1{
-    color:#bfbfbf;    
+    color: white;    
 }
 h2{
-    color:#bfbfbf;    
+    color:white;    
 }
 h4{
-    color:#bfbfbf;    
+    text-shadow: 1px 1px 10px black;
+    color: #bfbfbf;    
+}
+.hyperlinks-bt{
+    filter: invert(80%);
 }
 .hyperlinks-bt:hover{
-    filter: invert(100%);
+    filter: invert(50%);
 }
 .title_projetos{
+    text-shadow: 1px 1px 10px black;
     font-family: Fredoka;
     color: #f5f3f3;
 }
@@ -43,8 +48,9 @@ h4{
     font-size: 20px;
 }
 p{
+    font-size: 17px;
     text-align: justify;
-    color:#bfbfbf;    
+    color: #e2e1e1;    
 }
 .background{
     background-color:#1f2429;

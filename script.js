@@ -1,55 +1,56 @@
 var id = 1;
 var limite = 5; 
 var textos = [
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA Robotic League é uma equipe de robótica de escola pública, que participa de diversos" +
+    "<p>&emsp;&emsp;A Robotic League é uma equipe de robótica de escola pública, que participa de diversos" +
     " campeonatos como o <strong>TJR</strong> (Torneio Juvenil de Robótica), <strong>ITR</strong> (International Tournament of Robots) e a <strong>FIRA RoboWorld Cup</strong>, além disso" +
-    ", o time participa de feiras científicas, como a <strong>FEBRACE</strong> (Feira Brasileira de Ciências e Engenharia). </br>" +
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPor ser de escola pública, a equipe precisa frequentemente realizar ações para arrecadar" +
+    ", o time participa de feiras científicas, como a <strong>FEBRACE</strong> (Feira Brasileira de Ciências e Engenharia). </p>" +
+    "<p>&emsp;&emsp;Por ser de escola pública, a equipe precisa frequentemente realizar ações para arrecadar" +
     " dinheiro (como vendas de pastel na escola, vendas de pizza, vaquinhas online e pedágios), o valor arrecadado é usado para realizar" +
-    " a compra de novos materiais e custear as passagens e hospedagem dos integrantes para os campeonatos. </br>" +
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspComo integrante da equipe, participei de campeonatos em: <strong>João Pessoa - PB, São luis - MA" +
+    " a compra de novos materiais e custear as passagens e hospedagem dos integrantes para os campeonatos. </p>" +
+    "<p>&emsp;&emsp;Como integrante da equipe, participei de campeonatos em: <strong>João Pessoa - PB, São luis - MA" +
     " e São Paulo - SP</strong>, atuando na função de programador, além de realizar a edição dos Registros Multimidiáticos da equipe, também," +
     " juntamente com outro integrante, escrevemos o artigo <em>'Jogo Computadorizado Com a Finalidade de Auxiliar na Matemática'</em> com a"+
-    " finalidade de participar da <strong>FEBRACE</strong>. Deixei a equipe no final de 2021 para prosseguir na vida acadêmica.",
+    " finalidade de participar da <strong>FEBRACE</strong>. Deixei a equipe no final de 2021 para prosseguir na vida acadêmica.</p>",
     
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<em>The Math Quest</em> é um jogo de plataforma 2D construído utilizando o motor de jogo <strong>Unity</strong> e a linguagem <strong>C#</strong>," +
+    "<p>&emsp;&emsp;<em>The Math Quest</em> é um jogo de plataforma 2D construído utilizando o motor de jogo <strong>Unity</strong> e a linguagem <strong>C#</strong>," +
     " ele foi feito juntamente com o artigo <em>'Jogo Computadorizado Para Auxiliar na Matemática'</em>, com o objetivo de participar da <em>Feira" +
     " Brasileira de Ciências e Engenharia</em> (FEBRACE). Tentamos tornar esse jogo algo cativante para o público alvo (principalmente crianças)" +
     " , trazendo elementos para <em>'gameficar'</em> o ensino, como pontuações, partículas para potencializar algumas ações, como por exemplo, " +
-    " levar ou dar dano. Para inserir a matemática nesse meio, criamos um algoritmo que pega questões de interpretação pré determinadas" +
+    " levar ou dar dano. </p>"+
+    "<p>&emsp;&emsp;Para inserir a matemática nesse meio, criamos um algoritmo que pega questões de interpretação pré determinadas" +
     " em uma base de dados e <strong>randomiza</strong> as variáveis, tornando cada questão unica, o jogador então, após chegar no final de uma fase" +
-    ", precisa acertar essa questão para progredir para o próximo nível. </br>"+
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUm diferencial do <em>The Math Quest</em> é que, o jogo consegue identificar em quais operações matemáticas" +
+    ", precisa acertar essa questão para progredir para o próximo nível. </p>"+
+    "<p>&emsp;&emsp;Um diferencial do <em>The Math Quest</em> é que, o jogo consegue identificar em quais operações matemáticas" +
     " o usuário tem mais dificuldade (por meio do tempo para responder, quantidade de erros, incerteza da resposta, etc), sabendo" +
-    " disso o algoritmo da prioridade para a dificuldade, permitindo ao jogador treinar aonde tem mais dificuldades. </br>" +
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEsse projeto foi feito internamente na <strong>Robotic League</strong>, e foi realizado por mim e por um amigo" +
-    " da equipe chamado <em>Sandro Altenhofen Junior</em>, usando este artigo fomos premiados em <strong>Terceiro Lugar</strong> nos <em>Prêmios Stemmer - Categoria Jovem Inovador</em>.",
+    " disso o algoritmo da prioridade para a dificuldade, permitindo ao jogador treinar aonde tem mais dificuldades. </p>" +
+    "<p>&emsp;&emsp;Esse projeto foi feito internamente na <strong>Robotic League</strong>, e foi realizado por mim e por um amigo" +
+    " da equipe chamado <em>Sandro Altenhofen Junior</em>, usando este artigo fomos premiados em <strong>Terceiro Lugar</strong> nos <em>Prêmios Stemmer - Categoria Jovem Inovador</em>.</p>",
 
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEsse bot foi criado com o unico intuito de praticar programação, e por curiosidade de como eram feitos esses bots" +
+    "<p>&emsp;&emsp;Esse bot foi criado com o unico intuito de praticar programação, e por curiosidade de como eram feitos esses bots" +
     ", ele foi feito utilizando <strong>Python</strong> e a bibloteca <strong>Tweepy</strong> para se comunicar com a API do twitter, ele é hospedado nos servidores da <strong>Heroku</strong>" +
     " em um plano gratuito, e portanto, fica online apenas nos primeiros 20 dias do mês. Atualmente o BOT não é utilizado, visto que eu divulguei" +
-    " apenas para alguns amigos e não fui muito pra frente com a divulgação, se ele continua funcionando é um segredo pra mim, mas ele de fato, em algum momento, funcionou. </br>" +
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPara utilizar o BOT, é necessario tweetar algo marcando o @ do BOT, caso você marque algum amigo no mesmo tweet," +
+    " apenas para alguns amigos e não fui muito pra frente com a divulgação, se ele continua funcionando é um segredo pra mim, mas ele de fato, em algum momento, funcionou. </p>" +
+    "<p>&emsp;&emsp;Para utilizar o BOT, é necessario tweetar algo marcando o @ do BOT, caso você marque algum amigo no mesmo tweet," +
     " o bot ira responder o tweet com um tabuleiro pronto, sendo o jogador 1 você e o jogador 2 seu amigo, para fazer uma jogada, é necessário" +
     " responder esse tweet marcando o BOT e falando a casa da jogada <em>(exemplo: '@VelhaBOT C1')</em>." +
-    " <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/VelhaBOT/status/1360275350496886789'>Nessa thread</a> é possível ver um exemplo do BOT funcionando 100%.",
+    " <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/VelhaBOT/status/1360275350496886789'>Nessa thread</a> é possível ver um exemplo do BOT funcionando 100%.</p>",
 
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSim, mais um projeto envolvendo jogo da velha, porque não? Esse site foi criado com o objetivo" +
+    "<p>&emsp;&emsp;Sim, mais um projeto envolvendo jogo da velha, porque não? Esse site foi criado com o objetivo" +
     " de praticar <strong>HTML, CSS</strong> e <strong>JavaScript</strong>, inicialmente a ideia era pra ser um homem vs maquina comum, no entanto, acabei finalizando com certa facilidade" +
     " e quis complicar um pouco, foi ai que pensei em tornar esse site <strong>multiplayer</strong>, dessa forma, fui atras de aprender <strong>PHP</strong> e <strong>Banco de Dados</strong>" +
     ", também tive que aprender sobre <strong>JQuery</strong>, pois não podia usar as requisições <strong>GET</strong> e <strong>POST</strong>" +
     " para puxar os dados do banco enquanto a partida rolava, pois esse método <strong>atualiza a pagina</strong>, então, utilizei as requisições <strong>ajax</strong>, que conseguem" +
-    " pegar os dados atualizados sem 'dar refresh' na página. </br>" +
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNo entanto, como na parte do front-end eu não tinha muita prática, esse site basicamente só funciona" +
+    " pegar os dados atualizados sem 'dar refresh' na página. </p>" +
+    "<p>&emsp;&emsp;No entanto, como na parte do front-end eu não tinha muita prática, esse site basicamente só funciona" +
     " na resolução Full HD (e se você se esforçar, em HD também) pois não me preocupei em deixar o site <strong>responsivo</strong>. Outro porém é que não publiquei esse" +
-    " site em nenhum lugar, pois um host é meio caro e preciso de um serviço de banco de dados na nuvem também, mas é aquela história né? O importante é que na minha máquina funciona!",
+    " site em nenhum lugar, pois um host é meio caro e preciso de um serviço de banco de dados na nuvem também, mas é aquela história né? O importante é que na minha máquina funciona!</p>",
 
-    "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEsse site foi criado com o principal objetivo de passar na matéria de <strong>informática básica</strong>, mas também" +
+    "<p>&emsp;&emsp;Esse site foi criado com o principal objetivo de passar na matéria de <strong>informática básica</strong>, mas também" +
     " quis aproveitar pra aprender coisas novas (e se possível, o suficiente pra entrar na área, alguem me da um emprego na área logo por favor)," +
     " ao contrario do meu ultimo projeto onde eu ignorei completamente a existência de outras resoluções além da minha, dessa vez eu quis fazer um site" +
     " responsivo, por conta disso, fui atras de aprender sobre <strong>Bootstrap</strong> (que é inclusive usado pelo site do curso) além disso, aprendi" +
     " sobre as <em>'Media Queries'</em> do <strong>CSS</strong>, aprendi sobre os arquivos de <strong>vetor</strong> (.svg) e sofri algumas horas no photoshop para aprender a fazer" +
-    " uma logo nesse formato, e também usei um pouco de <strong>JavaScript</strong> na página de projetos"
+    " uma logo nesse formato, e também usei um pouco de <strong>JavaScript</strong> na página de projetos</p>"
 ]
 var titulo = ["Robotic League","The Math Quest","Velha BOT", "tic-tac-toe", "Esse Site"]
 var ano = ["2018 a 2022", "2019", "2020", "2021","2022"]
