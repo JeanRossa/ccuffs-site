@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
 body{
     background-color: #363b40;
 }
@@ -19,13 +21,11 @@ h2{
 h4{
     color:#bfbfbf;    
 }
-.yt-button:hover{
-    filter: invert(12%) sepia(63%) saturate(7483%) hue-rotate(356deg) brightness(91%) contrast(89%);
-}
-.insta-button:hover{
-    filter: invert(62%) sepia(0%) saturate(6927%) hue-rotate(360deg) brightness(116%) contrast(74%);
+.hyperlinks-bt:hover{
+    filter: invert(100%);
 }
 .title_projetos{
+    font-family: Fredoka;
     color: #f5f3f3;
 }
 .btn-contatos{
