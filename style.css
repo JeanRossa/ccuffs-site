@@ -1,16 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
 
 body{
-    background-color: #363b40;
-}
-.bgcol1{
-    background-color: white;
-}
-.bgcol2{
-    background-color: blue;
-}
-.bgcol3{
-    background-color: red;
+    background:linear-gradient(to left top, #27282a, #3f4347);
+    background-attachment: fixed;
 }
 h1{
     color: white;    
@@ -21,6 +13,12 @@ h2{
 h4{
     text-shadow: 1px 1px 10px black;
     color: #bfbfbf;    
+}
+.txt-header{
+    color:#bfbfbf; 
+}
+.txt-header:hover{
+    color:white; 
 }
 .hyperlinks-bt{
     filter: invert(80%);

@@ -58,7 +58,7 @@ var desc = ["Projeto de Robótica da Escola EEB Bom Pastor",
             "Jogo computadorizado com o objetivo de auxiliar na matemática",
             "BOT que joga o jogo da velha no twitter",
             "Site para jogar o Jogo da Velha multiplayer",
-            "Avaliação de Informatica Básica"]
+            "Avaliação de Informática Básica"]
 var hyperlink1 = ["https://www.youtube.com/c/RoboticLeague","https://www.youtube.com/watch?v=qhvUkuKFBvY&ab_channel=JeanRossa","https://twitter.com/VelhaBOT","https://www.youtube.com/watch?v=eWE2L1xrvhA&ab_channel=JeanRossa","https://github.com/JeanRossa/ccuffs-site"]
 var hyperlink2 = ["https://www.instagram.com/robotic.league/","https://github.com/JeanRossa/TheMathQuest","https://github.com/JeanRossa/JogoDaVelhaBOT","https://github.com/JeanRossa/tic-tac-toe",""]
 var hyperlink3 = ["https://carlosrutz.com/robotica","https://www.kongregate.com/games/JeanR18/the-math-quest","","",""]
