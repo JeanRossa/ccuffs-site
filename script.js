@@ -52,7 +52,7 @@ var textos = [
     " sobre as <em>'Media Queries'</em> do <strong>CSS</strong>, aprendi sobre os arquivos de <strong>vetor</strong> (.svg) e sofri algumas horas no photoshop para aprender a fazer" +
     " uma logo nesse formato, e também usei um pouco de <strong>JavaScript</strong> na página de projetos</p>"
 ]
-var titulo = ["Robotic League","The Math Quest","Velha BOT", "tic-tac-toe", "Esse Site"]
+var titulo = ["1. Robotic League","2. The Math Quest","3. Velha BOT", "4. tic-tac-toe", "5. Esse Site"]
 var ano = ["2018 a 2022", "2019", "2020", "2021","2022"]
 var desc = ["Projeto de Robótica da Escola EEB Bom Pastor",
             "Jogo computadorizado com o objetivo de auxiliar na matemática",
@@ -67,6 +67,7 @@ var icon2 = ["icons/instagram.svg","icons/github.svg","icons/github.svg","icons/
 var icon3 = ["icons/link.svg","icons/controller.svg","","",""]
 att(id);
 function back(){
+    window.scrollTo(0,0)
     id -= 1
     if (id <= 0){
         id = limite
@@ -74,6 +75,7 @@ function back(){
     att(id)
 }
 function next(){
+    window.scrollTo(0,0)
     id += 1
     if (id > limite){
         id = 1

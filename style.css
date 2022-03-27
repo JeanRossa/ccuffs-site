@@ -32,9 +32,9 @@ h4{
     color: #f5f3f3;
 }
 .btn-contatos{
-    background-color: #5e656b; 
+    background-color: #72787e; 
     border: #4d5257; 
-    width: 400px; 
+    width: 300px; 
     text-align: left;
 }
 .btn-contatos:hover{
@@ -43,7 +43,7 @@ h4{
 .contatosTxt{
     text-align: left;
     color: black;
-    font-size: 20px;
+    font-size: 15px;
 }
 p{
     font-size: 17px;
@@ -71,6 +71,12 @@ p{
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 576px) {
+    .contatosTxt-sm{
+        font-size: 20px;
+    }
+    .btn-contatos-sm{
+        width: 400px;       
+    }
     .img-align-sm {
         float:right
     }
