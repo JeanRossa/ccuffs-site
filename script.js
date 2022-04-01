@@ -3,11 +3,11 @@ var limite = 5;
 var textos = [
     "<p>&emsp;&emsp;A Robotic League é uma equipe de robótica de escola pública, que participa de diversos" +
     " campeonatos como o <strong>TJR</strong> (Torneio Juvenil de Robótica), <strong>ITR</strong> (International Tournament of Robots) e a <strong>FIRA RoboWorld Cup</strong>, além disso" +
-    ", o time participa de feiras científicas, como a <strong>FEBRACE</strong> (Feira Brasileira de Ciências e Engenharia). </p>" +
+    ", o time participa de feiras científicas, como a <strong>FEBRACE</strong> (Feira Brasileira de Ciências e Engenharia) e a <strong>FBJC</strong> (Feira Brasileira de Jovem Cientistas). </p>" +
     "<p>&emsp;&emsp;Por ser de escola pública, a equipe precisa frequentemente realizar ações para arrecadar" +
-    " dinheiro (como vendas de pastel na escola, vendas de pizza, vaquinhas online e pedágios), o valor arrecadado é usado para realizar" +
+    " dinheiro, como vendas de pastel na escola, vendas de pizza, vaquinhas online e pedágios), o valor arrecadado é usado para realizar" +
     " a compra de novos materiais e custear as passagens e hospedagem dos integrantes para os campeonatos. </p>" +
-    "<p>&emsp;&emsp;Como integrante da equipe, participei de campeonatos em: <strong>João Pessoa - PB, São luis - MA" +
+    "<p>&emsp;&emsp;Como integrante da equipe, participei de campeonatos em: <strong>João Pessoa - PB, São Luis - MA" +
     " e São Paulo - SP</strong>, atuando na função de programador, além de realizar a edição dos Registros Multimidiáticos da equipe, também," +
     " juntamente com outro integrante, escrevemos o artigo <em>'Jogo Computadorizado Com a Finalidade de Auxiliar na Matemática'</em> com a"+
     " finalidade de participar da <strong>FEBRACE</strong>. Deixei a equipe no final de 2021 para prosseguir na vida acadêmica.</p>",
@@ -46,7 +46,7 @@ var textos = [
     " site em nenhum lugar, pois um host é meio caro e preciso de um serviço de banco de dados na nuvem também, mas é aquela história né? O importante é que na minha máquina funciona!</p>",
 
     "<p>&emsp;&emsp;Esse site foi criado com o principal objetivo de passar na matéria de <strong>informática básica</strong>, mas também" +
-    " quis aproveitar pra aprender coisas novas (e se possível, o suficiente pra entrar na área, alguem me da um emprego na área logo por favor)," +
+    " quis aproveitar pra aprender coisas novas," +
     " ao contrario do meu ultimo projeto onde eu ignorei completamente a existência de outras resoluções além da minha, dessa vez eu quis fazer um site" +
     " responsivo, por conta disso, fui atras de aprender sobre <strong>Bootstrap</strong> (que é inclusive usado pelo site do curso) além disso, aprendi" +
     " sobre as <em>'Media Queries'</em> do <strong>CSS</strong>, aprendi sobre os arquivos de <strong>vetor</strong> (.svg) e sofri algumas horas no photoshop para aprender a fazer" +
